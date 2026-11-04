@@ -1,0 +1,33 @@
+============================================================
+  PCB_Coaxial-Fed_Horn_Antenna_3_7_GHZ_3D_FULL  —  Measurement Notes
+============================================================
+  Date / Time   : 2026-07-20  13:29:20
+
+── VNA Settings ─────────────────────────────────────────
+  Frequency Range  : 3-6 GHz
+  Frequency Step   : 10 MHz
+  IF Bandwidth     : 1000 Hz
+  Stimulus Level   : -5.0 dBm
+  Averaging        : 1 sweep(s)/pt
+  S-G Smoothing    : 0 (half-window)
+
+── Scan Settings ────────────────────────────────────────
+  Measurement Type : 3D - Full
+  Angle Step       : 10 °
+
+── Motor Settings ───────────────────────────────────────
+  CANable Port     : COM5
+  Settle Delay     : 1.0 s
+  Antenna Speed    : 30 deg/s
+  Motion Smoothness: 255
+  Azimuth Offset   : -90.0 °
+  Elevation Offset : -90.0 °
+
+── Normalisation ────────────────────────────────────────
+  Mode             : Max
+  Reference Azimuth: 0 °
+  Reference Elev   : 0 °
+
+── User Notes ───────────────────────────────────────────
+1.5m DUT to REF Antenna Distance. Measurement Was Performed Outside (In The Garden).
+============================================================
